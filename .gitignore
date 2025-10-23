@@ -1,0 +1,30 @@
+# Environment
+.env
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# PHP
+vendor/
+composer.phar
+
+# Temporary files
+/tmp/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+.phpunit.result.cache
